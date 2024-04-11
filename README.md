@@ -11,6 +11,7 @@ MERN stack(MongoDB, Express.js, React.js, and Node.js)
 - Express.js
 - React.js
 - Node.js
+- Socket.IO
 - Visual Studio Code
 
 ## Prerequisites
