@@ -1,0 +1,18 @@
+{
+  "name": "talk-a-tive",
+  "version": "1.0.0",
+  "description": "- Full Stack Project incorporates real-time messaging functionality through Socket.IO.<br />\r - MERN stack(MongoDB, Express.js, React.js, and Node.js)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/atacankais/MERN-ChatApp"
+  },
+  "author": "Atacan Kais",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
